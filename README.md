@@ -15,4 +15,6 @@ talk about formula ones tech race and how that has helped to impact society, thi
 the technology f1 teams have engerniered to collect data off the car as quick as possible - how they have done this, using **telemetry**
 
 ## IMPACT ON SOCIETY 
+![image](https://user-images.githubusercontent.com/94462126/142068692-c6c5d406-7cee-4924-8638-aff4ae816648.png)
+
 how mclarens data design has been used in hospitals, and for air traffic controllers 
