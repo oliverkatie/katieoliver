@@ -2,6 +2,7 @@
 
 ##        HOW F1 TECHNOLOGY IS BUILDING THE FUTURE
 
-(![image](https://user-images.githubusercontent.com/94462126/142042514-34c32335-ad0d-4ea4-b0db-d3ce7511a4be.png)
+![image](https://user-images.githubusercontent.com/94462126/142061182-b65807d5-2d49-4e97-ba51-fe89ab6d3c49.png)
+
 
 
