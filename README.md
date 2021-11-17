@@ -5,7 +5,9 @@
 Formula 1 is at the forefront of technology, pioneering new inventions that benefit life beyond the race track, from road cars to consumer electronics, from medical technology and to smart cities.
 
 ## IMPACT ON SOCIETY 
-![image](https://user-images.githubusercontent.com/94462126/142069840-62f563c9-5be2-4e06-a626-bbb6193ddbd3.png)
+
+![image](https://user-images.githubusercontent.com/94462126/142090799-da10d6d1-4b90-40f2-84a9-ea60d8f2a5e5.png)
+
 
 how mclarens data design has been used in hospitals, and for air traffic controllers 
 
