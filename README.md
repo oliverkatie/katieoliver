@@ -2,7 +2,7 @@
 
 # HOW F1 IS ADVANCING SOCIETY
 
-here will be an introduction of what this readme file is about and what im going to uncover 
+Formula 1 is at the forefront of technology, pioneering new inventions that benefit life beyond the race track, from road cars to consumer electronics, from medical technology and to smart cities.
 
 ## FORMULA 1'S TECH RACE.
 
