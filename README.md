@@ -15,7 +15,9 @@ Away from the roads, modern society is benefitting from formula 1’s technical 
 
 Behind the twenty cars, each team is competing to have the best technology in order for their cars to have maximum performance, which creates innovations that we see in modern day society, F1 technology has become more relevant for road cars than it has ever been before.
 
-First Header | Second Header———— | ————-Content from cell 1 | Content from cell 2Content in the first column | Content in the second column
+First Header | Second Header———— | ————-
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 1. Carbon Fibre 
 2. anti - lock brakes 
