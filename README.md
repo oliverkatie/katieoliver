@@ -8,9 +8,6 @@ Formula 1 is at the forefront of technology, pioneering new inventions that bene
 
 Away from the roads, modern society is benefitting from formula 1’s technical innovations. Mclarens F1 Data is being used by air traffic controllers which help to reduce congestion, emissions and time. Mclarens Data is also now also a vital part of monitoring intensive care patients in hospitals. In addition to this, the study of how F1 pit crew operate, has encouraged better communication strategies between surgeons and nurses in operating theaters, among life-saving advancements.
 
-![](https://user-images.githubusercontent.com/94462126/142090799-da10d6d1-4b90-40f2-84a9-ea60d8f2a5e5.png)
- 
-
 ## FORMULA 1'S TECH RACE.
 
 Behind the twenty cars, each team is competing to have the best technology in order for their cars to have maximum performance, which creates innovations that we see in modern day society, F1 technology has become more relevant for road cars than it has ever been before.
@@ -26,4 +23,6 @@ Behind the twenty cars, each team is competing to have the best technology in or
 
 ## HOW DATA IS COLLECTED
 Data is collected through **telemetry**
+
+![](https://user-images.githubusercontent.com/94462126/142090799-da10d6d1-4b90-40f2-84a9-ea60d8f2a5e5.png)
 
