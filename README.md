@@ -15,14 +15,13 @@ Away from the roads, modern society is benefitting from formula 1’s technical 
 
 Behind the twenty cars, each team is competing to have the best technology in order for their cars to have maximum performance, which creates innovations that we see in modern day society, F1 technology has become more relevant for road cars than it has ever been before.
 
-First Header | Second Header———— | ————-
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+###### 1. Carbon Fibre 
+Carbon fibre was pioneered by Mclaren in 1980 to protect the driver's saftey, it's light but strong properties have allowed carbon fibre to sucessful;ly migrate into being manufactured into road cars. 
 
-1. Carbon Fibre 
 2. anti - lock brakes 
-3. KERS (kinetic energy resource system)
-4. Hybrid technology 
+
+4. KERS (kinetic energy resource system)
+5. Hybrid technology 
 
 ![image](https://user-images.githubusercontent.com/94462126/142089593-9b7ce30b-fb98-43d9-8f57-cf3b083589aa.png)
 
