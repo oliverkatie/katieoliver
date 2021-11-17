@@ -10,8 +10,6 @@ Away from the roads, modern society is benefitting from formula 1’s technical 
 
 <img src="https://user-images.githubusercontent.com/94462126/142252267-22747feb-9e73-482d-896f-46321e486c47.png" width="700" height="400"> 
 
-![image](https://user-images.githubusercontent.com/94462126/142252267-22747feb-9e73-482d-896f-46321e486c47.png)
-
 
 ## FORMULA 1'S TECH RACE.
 
