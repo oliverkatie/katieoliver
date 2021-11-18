@@ -46,7 +46,8 @@ An active suspension system, has the capability to adjust itself continuously to
 The steering wheels designed by F1 engineers have been replicated in our everyday vehicles, not the actual shape, but the controls and configurations they feature. In F1 the driver can change various settings at the couch of a button, with up to 25 buttons. These have inspired steering wheels that we see in road cars to change the music, or answer a phone call from the wheel. 
 In recent years, the F1 wheels have been designed to light up and inform the driver of any red flags that could be affecting a race. In the future, we might start to introduce these to road cars to warn them of traffic signals.
 
-<img src="https://user-images.githubusercontent.com/94462126/142483045-d3279d4f-efad-4a25-8ae1-5f1ab682fe2d.png" width="800" height=600"> 
+<img src="https://user-images.githubusercontent.com/94462126/142512122-32123dcb-3095-4b2b-8a20-b07acaed555c.png" width="800" height=600"> 
+                                                                                                                                        
 ![image](https://user-images.githubusercontent.com/94462126/142512122-32123dcb-3095-4b2b-8a20-b07acaed555c.png)
 
 Photoshopped visualisaion highlighting the crew in the pit lanes and all the different car components
