@@ -34,7 +34,7 @@ Kinetic energy recovery system (KERS) works by using the kinetic energy released
 
 Volvo took inspiration to create their own mechanical flywheel system made out of **carbon fibre**.  Using KERS saves 25% of  fuel and shows a substantial decrease in emissions.
 
-> “ the KERS system is well suited to traveling in city traffic where you typically accelerate and then brake repeatedly.”
+> “The KERS system is well suited to traveling in city traffic where you typically accelerate and then brake repeatedly.”
 
 ### Traction control
 Traction control systems use electronic sensors to automatically manage how much power is being put down to the pavement in an effort to prevent the wheels from spinning. Although commonplace on road cars today, traction controll systems were introduced in Formula 1 in 1994 but then banned in 2008, due to beeing too technological and went agaisnt the FIA regulations.
