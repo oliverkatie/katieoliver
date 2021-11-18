@@ -2,7 +2,7 @@
 
 # HOW F1 TECHNOLOGY IS ADVANCING SOCIETY
 
-Racing on 23 different race cources requres the 10 teams to each compete every season to be the best, meaning that Formula 1 is at the front line of technology, pioneering new inventions that benefit life beyond the race track, from road cars to consumer electronics, from medical technology and to smart cities. 
+Racing on 23 different race courses requres the 10 teams to each compete every season to be the best, meaning that Formula 1 is at the front line of technology, pioneering new inventions that benefit life beyond the race track, from road cars to consumer electronics, from medical technology and to smart cities. 
 
 ## IMPACT ON SOCIETY 
 
