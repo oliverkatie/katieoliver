@@ -19,7 +19,6 @@ Formula 1 have stated that they will be carbon neutral by 2030, by 2025 all even
 
 <img src="https://user-images.githubusercontent.com/94462126/142252267-22747feb-9e73-482d-896f-46321e486c47.png" width="700" height="400"> 
 
-
 ## FORMULA 1'S TECH RACE
 
 Behind the twenty cars, each team is competing to have the best technology in order for their cars to have maximum performance, which creates innovations that we see in modern day society, F1 technology has become more relevant for road cars than it has ever been before.
