@@ -29,15 +29,19 @@ Carbon fibre was pioneered by Mclaren in 1980 to protect the driver's saftey, it
 ### Anti-lock brakes (ABS)
 ABS was first introduced in fomula 1 in 1971 but later banned in 1994 due to a backlash of the sport becoming too technical, Formula 1 would be even less about skill and more about technology if ABS was legal. However this did not matter for road cars, as ABS  is designed to stop your car from skidding when breaking sharply, by stopping the breaks from locking. Most cars in todays society will be built with ABS breaks.
 
-### KERS
+### Hybrid Technology (KERS)
 Kinetic energy recovery system (KERS) works by using the kinetic energy released from braking and transforming it into electric energy to help boost the car’s horsepower. KERS was used in motorsport in the 2009 season where it won two podiums but was later scrapped but then reintroduced to the sport in 2011. 
 
 Volvo took inspiration to create their own mechanical flywheel system made out of **carbon fibre**.  Using KERS saves 25% of  fuel and shows a substantial decrease in emissions.
 
 > “ the KERS system is well suited to traveling in city traffic where you typically accelerate and then brake repeatedly.”
 
-### Hybrid technology  
+### Traction control
+
+
 ### Acive suspension 
+
+### Steering wheels
 
 ![image](https://user-images.githubusercontent.com/94462126/142089593-9b7ce30b-fb98-43d9-8f57-cf3b083589aa.png)
 
@@ -46,8 +50,20 @@ Volvo took inspiration to create their own mechanical flywheel system made out o
 ## COLLECTING DATA
 
 ### Telemetry
-Data is collected through **telemetry**
 
-![image](https://user-images.githubusercontent.com/94462126/142331897-de81c5fa-4c2d-4c2d-8bae-795d8df1c282.png)
+Data is sent from the car to the boxes using from 1,000 to 2,000 telemetry channels, transmitted wirelessly using 1.5 GHz frequency.
+Each car has from 150 to 300 sensors, once the car is within four metres of the pit lane, the majority of the data is transferred from the car to the engineers, at download speeds of up to 1.9 Gbits per second. (Transmitting one Gigabyte of data would take less than five seconds.) The team then will look at ••computinal raw data analysis•• to look for patterns that indicate trends and failures of car components. 
+
+The telemetry data can be accessed in real-time as the car travels around the track at speeds up to 350 km/h, so they can communicate with the driver as soon as something goes wrong, so the driver can correct using his steering wheel to achieve a higher performance.
+
+![image](https://user-images.githubusercontent.com/94462126/142483045-d3279d4f-efad-4a25-8ae1-5f1ab682fe2d.png)
+Telemetry reading for Silverstone
+
+### Tyres
+
+Understanding the tyres are crucial as they are a key performance in F1, in practice, Infra-red tyre monitoring systems are fitted on to the car to get a picture of how different tyres work based on the environment conditions. Getting the data off the data as fast as possible is vital as the car is only stationary in the pits for a few seconds. In order to do this, engineers developed a system of two high-tech wireless technologies, these operate in the millimeter wave 60 GHz band, _5 GHz 802.11ac and Multi-gigabit 802.11ad Wi-Fi technology_ which allows the data to be transmitted wirelessly.
+
+
+![image](https://user-images.githubusercontent.com/94462126/142477487-f3b319d7-3905-451c-956b-9284b4c4a20a.png)
 Visualisation of data being transmitted from the car 
 
