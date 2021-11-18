@@ -31,7 +31,7 @@ ABS was first introduced in fomula 1 in 1971 but later banned in 1994 due to a b
 
 
 
-## HOW DATA IS COLLECTED
+## COLLECTING DATA
 Data is collected through **telemetry**
 
 ![image](https://user-images.githubusercontent.com/94462126/142331897-de81c5fa-4c2d-4c2d-8bae-795d8df1c282.png)
