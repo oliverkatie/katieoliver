@@ -2,13 +2,15 @@
 
 # HOW F1 TECHNOLOGY IS ADVANCING SOCIETY
 
-Formula 1 is at the forefront of technology, pioneering new inventions that benefit life beyond the race track, from road cars to consumer electronics, from medical technology and to smart cities. 
+Racing on 23 different race cources requres the 10 teams to each compete every season to be the best, meaning that Formula 1 is at the front line of technology, pioneering new inventions that benefit life beyond the race track, from road cars to consumer electronics, from medical technology and to smart cities. 
 
 ## IMPACT ON SOCIETY 
 
 ### Sustainability 
 
 Away from the roads, modern society is benefitting from formula 1’s technical innovations. Mclarens F1 Data is being used by air traffic controllers which help to reduce congestion, emissions and time. 
+
+Formula 1 have stated that they will be carbon neutral by 2030, by 2025 all events should be 100% sustaiable and will be eliminating simgle use plastics, and reusing and recycling materials. Offices, factories, facilities and  emmisions will also have be powered by 100% renewable energy. 
 
 ### Communication
  Mclarens Data is also now also a vital part of monitoring intensive care patients in hospitals. In addition to this, the study of how F1 pit crew operate, has encouraged better communication strategies between surgeons and nurses in operating theaters, among life-saving advancements.
@@ -24,14 +26,14 @@ Behind the twenty cars, each team is competing to have the best technology in or
 Carbon fibre was pioneered by Mclaren in 1980 to protect the driver's saftey, it's light but strong properties have allowed carbon fibre to sucessfully migrate into being manufactured into road cars. 
 
 ### Anti-lock brakes (ABS)
-ABS was first introduced in fomula 1 in 1971 but later banned in 1994 due to a backlash of the sport becoming too technical, Formula 1 would be even less about skill and more about technology if ABS was legal. However this did not matter for road cars, most cars in todays society will be built with ABS breaks 
+ABS was first introduced in fomula 1 in 1971 but later banned in 1994 due to a backlash of the sport becoming too technical, Formula 1 would be even less about skill and more about technology if ABS was legal. However this did not matter for road cars, as ABS  is designed to stop your car from skidding when breaking sharply, by stopping the breaks from locking. Most cars in todays society will be built with ABS breaks.
 
 ### KERS
 Kinetic energy recovery system (KERS) works by using the kinetic energy released from braking and transforming it into electric energy to help boost the car’s horsepower. KERS was used in motorsport in the 2009 season where it won two podiums but was later scrapped but then reintroduced to the sport in 2011. 
 
 Volvo took inspiration to create their own mechanical flywheel system made out of **carbon fibre**.  Using KERS saves 25% of  fuel and shows a substantial decrease in emissions.
 
-> “ the KERS system is well suited to traveling in city traffic where you typically accelerate and then brake repeatedly”
+> “ the KERS system is well suited to traveling in city traffic where you typically accelerate and then brake repeatedly.”
 
 ### Hybrid technology  
 ### Acive suspension 
