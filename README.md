@@ -14,6 +14,8 @@ Formula 1 have stated that they will be carbon neutral by 2030, by 2025 all even
 
 ### Communication
  Mclarens Data is also now also a vital part of monitoring intensive care patients in hospitals. In addition to this, the study of how F1 pit crew operate, has encouraged better communication strategies between surgeons and nurses in operating theaters, among life-saving advancements.
+ 
+ In the future, similar technologies will move smartphones, enablalig much faster download and upload speeds and a more reliable connection, used in connected cars to enable them to communicate with the outside world.
 
 <img src="https://user-images.githubusercontent.com/94462126/142252267-22747feb-9e73-482d-896f-46321e486c47.png" width="700" height="400"> 
 
