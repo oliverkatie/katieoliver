@@ -6,7 +6,7 @@ Formula 1 is at the forefront of technology, pioneering new inventions that bene
 
 ## IMPACT ON SOCIETY 
 
-## Sustainability 
+### Sustainability 
 
 Away from the roads, modern society is benefitting from formula 1’s technical innovations. Mclarens F1 Data is being used by air traffic controllers which help to reduce congestion, emissions and time. 
 
@@ -41,6 +41,8 @@ Volvo took inspiration to create their own mechanical flywheel system made out o
 
 
 ## COLLECTING DATA
+
+### ••Telemetry••
 Data is collected through **telemetry**
 
 ![image](https://user-images.githubusercontent.com/94462126/142331897-de81c5fa-4c2d-4c2d-8bae-795d8df1c282.png)
