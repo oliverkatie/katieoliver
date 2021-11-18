@@ -42,7 +42,7 @@ Volvo took inspiration to create their own mechanical flywheel system made out o
 
 ## COLLECTING DATA
 
-### ••Telemetry••
+### Telemetry
 Data is collected through **telemetry**
 
 ![image](https://user-images.githubusercontent.com/94462126/142331897-de81c5fa-4c2d-4c2d-8bae-795d8df1c282.png)
