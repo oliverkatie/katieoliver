@@ -6,9 +6,14 @@ Formula 1 is at the forefront of technology, pioneering new inventions that bene
 
 ## IMPACT ON SOCIETY 
 
-Away from the roads, modern society is benefitting from formula 1’s technical innovations. Mclarens F1 Data is being used by air traffic controllers which help to reduce congestion, emissions and time. Mclarens Data is also now also a vital part of monitoring intensive care patients in hospitals. In addition to this, the study of how F1 pit crew operate, has encouraged better communication strategies between surgeons and nurses in operating theaters, among life-saving advancements.
+## Sustainability 
 
-### Sustainability 
+Away from the roads, modern society is benefitting from formula 1’s technical innovations. Mclarens F1 Data is being used by air traffic controllers which help to reduce congestion, emissions and time. 
+
+### Communication
+ Mclarens Data is also now also a vital part of monitoring intensive care patients in hospitals. In addition to this, the study of how F1 pit crew operate, has encouraged better communication strategies between surgeons and nurses in operating theaters, among life-saving advancements.
+
+### Communication
 
 <img src="https://user-images.githubusercontent.com/94462126/142252267-22747feb-9e73-482d-896f-46321e486c47.png" width="700" height="400"> 
 
