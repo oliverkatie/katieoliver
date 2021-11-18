@@ -40,6 +40,7 @@ Volvo took inspiration to create their own mechanical flywheel system made out o
 
 
 ### Acive suspension 
+An active suspension system, has the capability to adjust itself continuously to changing road conditions. By changing its character to respond to varying road conditions, active suspension offers superior handling, road feel, responsiveness and safety. The active suspension system, was introduced by Williams in 1992, It is now a commmon specification for manufacturers making road cars.
 
 ### Steering wheels
 
