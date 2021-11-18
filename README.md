@@ -23,7 +23,13 @@ Carbon fibre was pioneered by Mclaren in 1980 to protect the driver's saftey, it
 ### Anti-lock brakes (ABS)
 ABS was first introduced in fomula 1 in 1971 but later banned in 1994 due to a backlash of the sport becoming too technical, Formula 1 would be even less about skill and more about technology if ABS was legal. However this did not matter for road cars, most cars in todays society will be built with ABS breaks 
 
-### KERS (kinetic energy resource system)
+### KERS
+Kinetic energy recovery system (KERS) works by using the kinetic energy released from braking and transforming it into electric energy to help boost the car’s horsepower. KERS was used in motorsport in the 2009 season where it won two podiums but was later scrapped but then reintroduced to the sport in 2011. 
+
+Volvo took inspiration to create their own mechanical flywheel system made out of **carbon fibre**.  Using KERS saves 25% of  fuel and shows a substantial decrease in emissions.
+
+> “ the KERS system is well suited to traveling in city traffic where you typically accelerate and then brake repeatedly”
+
 ### Hybrid technology  
 ### Acive suspension 
 
