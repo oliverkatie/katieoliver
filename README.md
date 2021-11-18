@@ -52,7 +52,7 @@ Volvo took inspiration to create their own mechanical flywheel system made out o
 ### Telemetry
 
 Data is sent from the car to the boxes using from 1,000 to 2,000 telemetry channels, transmitted wirelessly using 1.5 GHz frequency.
-Each car has from 150 to 300 sensors, once the car is within four metres of the pit lane, the majority of the data is transferred from the car to the engineers, at download speeds of up to 1.9 Gbits per second. (Transmitting one Gigabyte of data would take less than five seconds.) The team then will look at ••computinal raw data analysis•• to look for patterns that indicate trends and failures of car components. 
+Each car has from 150 to 300 sensors, once the car is within four metres of the pit lane, the majority of the data is transferred from the car to the engineers, at download speeds of up to 1.9 Gbits per second. (Transmitting one Gigabyte of data would take less than five seconds.) The team then will look at •computinal raw data analysis• to look for patterns that indicate trends and failures of car components. 
 
 The telemetry data can be accessed in real-time as the car travels around the track at speeds up to 350 km/h, so they can communicate with the driver as soon as something goes wrong, so the driver can correct using his steering wheel to achieve a higher performance.
 
